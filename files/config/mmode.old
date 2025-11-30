@@ -1,0 +1,16 @@
+{
+	"enabled": true,
+	"doBackup": false,
+	"message": "Está em manutençao volte mais tarde",
+	"motd": "O servidor está reiniciando. Aguarde!",
+	"maintenanceIcon": "",
+	"schedule": {
+		"startTime": "",
+		"endTime": "",
+		"disableOnRestart": false,
+		"maintanceNotifyMessage": "Maintenance is starting in %s minute(s)"
+	},
+	"kickOnlinePlayers": true,
+	"configVersion": 3,
+	"allowedUsers": []
+}

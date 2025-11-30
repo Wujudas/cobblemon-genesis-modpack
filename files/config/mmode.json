@@ -1,0 +1,77 @@
+{
+	"enabled": false,
+	"doBackup": false,
+	"message": "Estamos reiniciando ou em Manutenção!",
+	"motd": "§cO servidor está reiniciando. Aguarde!",
+	"maintenanceIcon": "",
+	"schedule": {
+		"startTime": "",
+		"endTime": "",
+		"disableOnRestart": false,
+		"maintanceNotifyMessage": "Maintenance is starting in %s minute(s)"
+	},
+	"kickOnlinePlayers": true,
+	"configVersion": 2,
+	"allowedUsers": [
+		{
+			"name": "Iagoths",
+			"uuid": "38fd7c4c-3654-4478-a38f-d9bc78783e27"
+		}, 
+		{
+			"name": "ZZiphox",
+			"uuid": "21492c78-144a-413a-ac4d-c6984d6c1f16"
+		}, 
+		{
+			"name": "Danrique",
+			"uuid": "8c939d8e-5e25-4fcc-bc7e-a73eedff363f"
+		}, 
+		{
+			"name": "ReiDoHack",
+			"uuid": "a8a721ac-c391-4159-a5ed-ed6e98bcb937"
+		}, 
+		{
+			"name": "anavlix",
+			"uuid": "e096def3-78fb-4912-aa76-3b552a963d19"
+		}, 
+		{
+			"name": "WarDoc7or",
+			"uuid": "267e9a26-3e84-45c3-bd0c-a13acb84e552"
+		}, 
+		{
+			"name": "Kawgias",
+			"uuid": "f51cff2b-f818-409a-868f-23d6ed493d5e"
+		}, 
+		{
+			"name": "Coquejo",
+			"uuid": "cab95070-cc0b-4b79-8586-1e64b5caf123"
+		}, 
+		{
+			"name": "cadoutina",
+			"uuid": "d7d6e410-00b5-4b08-aae9-a0d47d8e2c9f"
+		}, 
+		{
+			"name": "razekvox",
+			"uuid": "9915c9d8-c4eb-430c-84c9-6751876ab3d2"
+		}, 
+		{
+			"name": "WujuInflitraz",
+			"uuid": "0b8ee501-cc1a-48b3-b6c9-029a0a4ffd3b"
+		}, 
+		{
+			"name": "CCamara",
+			"uuid": "a92ab030-03b9-4cb3-85b0-3fea669eabbf"
+		}, 
+		{
+			"name": "Kaiser_MK",
+			"uuid": "94ebc744-0146-4a1b-ba7a-c49ae83bf535"
+		}, 
+		{
+			"name": "LuukingV",
+			"uuid": "500d7854-adf5-4c8a-b0fb-7610c501fe95"
+		}, 
+		{
+			"name": "nakamurar",
+			"uuid": "f8f5a8f7-de46-4638-8fb0-656df744536c"
+		}
+	]
+}
